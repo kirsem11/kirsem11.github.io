@@ -1,0 +1,26 @@
+/* шрифт */
+@font-face
+{
+  font-family: arial;
+  src: url( fonts/arial-regular.ttf );
+}
+
+/* тело */
+body
+{
+  background: #181818;
+  color: #EEEEEE;
+
+  font-family: arial;
+  font-size:   15px;
+
+  line-height: 5px;
+
+  margin-top:    10px;
+  margin-bottom: 10px;
+}
+
+/* параграф */
+p
+{
+}
