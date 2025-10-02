@@ -1,0 +1,19 @@
+@font-face
+{
+  font-family: arial;
+  src: url( fonts/arial-regular.ttf );
+}
+
+body
+{
+  background: #181818;
+  color: #EEE;
+
+  font-family: arial;
+  font-size:   20px;
+
+  line-height: 22px;
+
+  margin-top:    35px;
+  margin-bottom: 35px;
+}
