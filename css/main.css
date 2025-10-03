@@ -2,7 +2,7 @@
 @font-face
 {
   font-family: arial;
-  src: url( fonts/arial-regular.ttf );
+  src: url( ../assets/fonts/arial-regular.ttf );
 }
 
 /* тело */
